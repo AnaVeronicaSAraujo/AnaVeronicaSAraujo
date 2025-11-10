@@ -1,6 +1,6 @@
 
 
-## 👋 Olá! Souu Ana Verônica Araújo  
+## 👋 Olá! Sou Ana Verônica Araújo  
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas** pela UCSAL.  
 📊 Atualmente atuo como **Engenharia de Dados**, **tratamento e análise de dados**, e **automação de processos**.  
